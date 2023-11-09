@@ -83,7 +83,7 @@ List of resources
 - [VisIt](https://visit-dav.github.io/visit-website/index.html)
 - [plotly](https://plotly.com/)
 - [gnuplot](http://www.gnuplot.info/download.html)
-- [Scientific_visualization](https://en.wikipedia.org/wiki/Scientific_visualization)
+- [Scientific visualization](https://en.wikipedia.org/wiki/Scientific_visualization)
 
 
 ## Data Analysis
