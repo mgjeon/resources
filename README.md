@@ -72,6 +72,7 @@ List of resources
 - [Python](https://www.python.org/)
 - [Julia](https://julialang.org/)
 - [LLVM](https://llvm.org/)
+- [GCC](https://gcc.gnu.org/)
 - [Fortran](https://fortran-lang.org/learn/)
 - [GDL](https://github.com/gnudatalanguage/gdl) - a free/libre and open-source drop-in replacement for IDL/PV-WAVE
 
