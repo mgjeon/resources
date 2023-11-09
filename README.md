@@ -76,10 +76,10 @@ List of resources
 - Python
     - [PyVista](https://github.com/pyvista/pyvista)
     - [Mayavi](https://github.com/enthought/mayavi)
+    - [yt](https://yt-project.org/)
 
 - [ParaView](https://www.paraview.org/)
 - [VisIt](https://visit-dav.github.io/visit-website/index.html)
-- [yt](https://yt-project.org/)
 - [plotly](https://plotly.com/)
 - [gnuplot](http://www.gnuplot.info/download.html)
 
