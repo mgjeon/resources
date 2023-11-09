@@ -41,13 +41,6 @@ List of resources
     - [numdifftools](https://github.com/pbrod/numdifftools)
 
 
-## Computer algebra system (CAS)
-
-
-## Calculator
-
-
-
 ## ML
 - Python
     - [PyTorch](https://pytorch.org/)
