@@ -90,7 +90,7 @@ List of resources
 - Python
     - [pandas](https://pandas.pydata.org/)
 
- - [Google Spreadsheet](https://spreadsheets.google.com/)
+ - [Google Sheets](https://spreadsheets.google.com/)
 
 
 ## Math
