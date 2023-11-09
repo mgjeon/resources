@@ -42,14 +42,10 @@ List of resources
 
 
 ## Computer algebra system (CAS)
-- Python
-    - [SymPy](https://www.sympy.org/en/index.html)
-
-- [SageMath](https://www.sagemath.org/)
 
 
 ## Calculator
-- [Google](https://support.google.com/websearch/answer/3284611?hl=en#)
+
 
 
 ## ML
@@ -94,9 +90,15 @@ List of resources
 
 
 ## Math
+- Python
+    - [SymPy](https://www.sympy.org/en/index.html)
+
+- [SageMath](https://www.sagemath.org/)
 - [Desmos](https://www.desmos.com)
 - [GeoGebra](https://www.geogebra.org)
 - [Graph](https://www.padowan.dk/download/)
+- [WolframAlpha](https://www.wolframalpha.com/)
+- [Google Calculator](https://support.google.com/websearch/answer/3284611?hl=en#)
 
 
 ## Diagram
