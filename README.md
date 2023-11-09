@@ -77,11 +77,21 @@ List of resources
     - [PyVista](https://github.com/pyvista/pyvista)
     - [Mayavi](https://github.com/enthought/mayavi)
     - [yt](https://yt-project.org/)
+    - [K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter)
 
 - [ParaView](https://www.paraview.org/)
 - [VisIt](https://visit-dav.github.io/visit-website/index.html)
 - [plotly](https://plotly.com/)
 - [gnuplot](http://www.gnuplot.info/download.html)
+- [Scientific_visualization](https://en.wikipedia.org/wiki/Scientific_visualization)
+
+
+## Data Analysis
+- Python
+    - [pandas](https://pandas.pydata.org/)
+
+ - [Google Spreadsheet](https://spreadsheets.google.com/)
+
 
 ## Math
 - [Desmos](https://www.desmos.com)
@@ -104,7 +114,9 @@ List of resources
 - [Julia](https://julialang.org/)
 - [LLVM](https://llvm.org/)
 - [Fortran](https://fortran-lang.org/learn/)
-- [GDL](https://github.com/gnudatalanguage/gdl)
+
+- a free alternative to IDL
+    - [GDL](https://github.com/gnudatalanguage/gdl)
 
 
 ## awesome
