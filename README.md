@@ -1,5 +1,5 @@
 # resources
-List of resources for science
+List of resources
 
 
 ## HD
@@ -81,6 +81,22 @@ List of resources for science
 - [VisIt](https://visit-dav.github.io/visit-website/index.html)
 - [yt](https://yt-project.org/)
 - [plotly](https://plotly.com/)
+- [gnuplot](http://www.gnuplot.info/download.html)
+
+## Math
+- [Desmos](https://www.desmos.com)
+- [GeoGebra](https://www.geogebra.org)
+- [Graph](https://www.padowan.dk/download/)
+
+
+## Diagram
+- [Mermaid](https://mermaid.js.org/)
+- [Graphviz](https://graphviz.org/)
+
+
+## Writing
+- [Overleaf](https://www.overleaf.com/)
+- [Quarto](https://quarto.org/)
 
 
 ## Programming
