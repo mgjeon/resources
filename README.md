@@ -72,7 +72,6 @@ List of resources
 - [VisIt](https://visit-dav.github.io/visit-website/index.html)
 - [plotly](https://plotly.com/)
 - [gnuplot](http://www.gnuplot.info/download.html)
-- [Scientific visualization](https://en.wikipedia.org/wiki/Scientific_visualization)
 
 
 ## Data Analysis
@@ -117,3 +116,9 @@ List of resources
 ## awesome
 - [Awesome Scientific Computing](https://github.com/nschloe/awesome-scientific-computing)
 - [Awesome Scientific Python](https://github.com/rossant/awesome-scientific-python)
+
+
+## Wikipedia
+- [Scientific visualization](https://en.wikipedia.org/wiki/Scientific_visualization)
+- [Category:Lists of software](https://en.wikipedia.org/wiki/Category:Lists_of_software)
+- [Category:Software comparisons](https://en.wikipedia.org/wiki/Category:Software_comparisons)
