@@ -76,6 +76,18 @@ List of resources
 - [Fortran](https://fortran-lang.org/learn/)
 - [GDL](https://github.com/gnudatalanguage/gdl) - a free/libre and open-source drop-in replacement for IDL/PV-WAVE
 
+## Space weather
+- [CCMC](https://ccmc.gsfc.nasa.gov/)
+- [NOAA/SWPC](https://www.swpc.noaa.gov/)
+- [ESA-SWE](https://swe.ssa.esa.int/)
+- [우주전파센터](https://spaceweather.rra.go.kr/)
+- [宇宙天気予報](https://swc.nict.go.jp/)
+- [ISES](http://www.spaceweather.org/index.jsp)
+
+## Observation
+- [SDO](https://sdo.gsfc.nasa.gov/)
+- [JSOC](http://jsoc.stanford.edu/)
+
 ## awesome
 - [Awesome Scientific Computing](https://github.com/nschloe/awesome-scientific-computing)
 - [Awesome Scientific Python](https://github.com/rossant/awesome-scientific-python)
