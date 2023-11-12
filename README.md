@@ -36,6 +36,12 @@ List of resources
 ## Solar Physics
 - [SunPy](https://sunpy.org/) - Python
 - [SolarSoft](https://www.lmsal.com/solarsoft/) - IDL
+- [ARTop](https://github.com/DavidMacT/ARTop) - C++, Python
+- [Magnetic Modeling Codes](https://github.com/njuguoyang/magnetic_modeling_codes) - IDL, Fortran
+- [Calculate Squashing Factor and Twist Number](http://staff.ustc.edu.cn/~rliu/qfactor.html) - IDL, Fortran
+- [QSL Squasher](https://bitbucket.org/tassev/qsl_squasher/src/hg/) - C++, Python
+- [FastQSL](https://github.com/el2718/FastQSL) - IDL, Fortran (CPU)
+- [FastQSL](https://github.com/peijin94/FastQSL) - CUDA, Python (GPU)
 
 ## Visualization
 - [PyVista](https://github.com/pyvista/pyvista) - Python
