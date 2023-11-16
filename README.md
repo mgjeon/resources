@@ -80,7 +80,8 @@ List of resources
 - [LLVM](https://llvm.org/)
 - [GCC](https://gcc.gnu.org/)
 - [Fortran](https://fortran-lang.org/learn/)
-- [GDL](https://github.com/gnudatalanguage/gdl) - a free/libre and open-source drop-in replacement for IDL/PV-WAVE
+- [Octave](https://octave.org/) - a free replacement for Matlab
+- [GDL](https://github.com/gnudatalanguage/gdl) - a free replacement for IDL
 
 ## Space weather
 - [CCMC](https://ccmc.gsfc.nasa.gov/)
