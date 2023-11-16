@@ -80,8 +80,8 @@ List of resources
 - [LLVM](https://llvm.org/)
 - [GCC](https://gcc.gnu.org/)
 - [Fortran](https://fortran-lang.org/learn/)
-- [Octave](https://octave.org/) - a free replacement for Matlab
-- [GDL](https://github.com/gnudatalanguage/gdl) - a free replacement for IDL
+- [Octave](https://octave.org/) - a free replacement for [MATLAB](https://www.mathworks.com/products/matlab.html)
+- [GDL](https://github.com/gnudatalanguage/gdl) - a free replacement for [IDL](https://en.wikipedia.org/wiki/IDL_(programming_language))
 
 ## Space weather
 - [CCMC](https://ccmc.gsfc.nasa.gov/)
