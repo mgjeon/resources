@@ -1,6 +1,18 @@
 # resources
 List of resources
 
+## Physics-informed machine learning
+- [jaxpi](https://github.com/PredictiveIntelligenceLab/jaxpi)
+- [PI-DeepONet](https://github.com/PredictiveIntelligenceLab/Physics-informed-DeepONets)
+- [PINO](https://github.com/neuraloperator/physics_informed)
+- [DeepXDE](https://github.com/lululxvi/deepxde)
+- [NVIDIA Modulus](https://developer.nvidia.com/modulus)
+- [neurodiffeq](https://github.com/NeuroDiffGym/neurodiffeq)
+- [PhiFlow](https://github.com/tum-pbs/PhiFlow)
+- Youtube
+  - [iAI KAIST](https://www.youtube.com/@iaipostech9888)
+  - [Steve Brunton](https://www.youtube.com/@Eigensteve)
+
 ## Hydrodynamics
 - [OpenFOAM](https://www.openfoam.com/) - C++
 - [JAX-Fluids](https://github.com/tumaer/JAXFLUIDS) - Python
@@ -14,10 +26,6 @@ List of resources
 
 ## Partial differential equation
 - [PyClaw](https://github.com/clawpack/pyclaw) - Python
-- [DeepXDE](https://github.com/lululxvi/deepxde) - Python
-- [neurodiffeq](https://github.com/NeuroDiffGym/neurodiffeq) - Python
-- [PhiFlow](https://github.com/tum-pbs/PhiFlow) - Python
-- [NVIDIA Modulus](https://developer.nvidia.com/modulus) - Python
 - [PETSc](https://petsc.org/release/)
 - [FEniCSx](https://fenicsproject.org/)
 
