@@ -1,19 +1,6 @@
 # resources
 List of resources
 
-## Physics-informed machine learning
-- [DeepXDE](https://github.com/lululxvi/deepxde)
-- [NVIDIA Modulus](https://developer.nvidia.com/modulus)
-- [neurodiffeq](https://github.com/NeuroDiffGym/neurodiffeq)
-- [PhiFlow](https://github.com/tum-pbs/PhiFlow)
-- [jaxpi](https://github.com/PredictiveIntelligenceLab/jaxpi)
-- [FBPINNs](https://github.com/benmoseley/FBPINNs)
-- [PI-DeepONet](https://github.com/PredictiveIntelligenceLab/Physics-informed-DeepONets)
-- [PINO](https://github.com/neuraloperator/physics_informed)
-- Youtube
-  - [iAI KAIST](https://www.youtube.com/@iaipostech9888)
-  - [Steve Brunton](https://www.youtube.com/@Eigensteve)
-
 ## Hydrodynamics
 - [OpenFOAM](https://www.openfoam.com/) - C++
 - [JAX-Fluids](https://github.com/tumaer/JAXFLUIDS) - Python
@@ -105,9 +92,23 @@ List of resources
 - [SDO](https://sdo.gsfc.nasa.gov/)
 - [JSOC](http://jsoc.stanford.edu/)
 
+## Physics-informed machine learning
+- [DeepXDE](https://github.com/lululxvi/deepxde)
+- [NVIDIA Modulus](https://developer.nvidia.com/modulus)
+- [neurodiffeq](https://github.com/NeuroDiffGym/neurodiffeq)
+- [PhiFlow](https://github.com/tum-pbs/PhiFlow)
+- [jaxpi](https://github.com/PredictiveIntelligenceLab/jaxpi)
+- [FBPINNs](https://github.com/benmoseley/FBPINNs)
+- [PI-DeepONet](https://github.com/PredictiveIntelligenceLab/Physics-informed-DeepONets)
+- [PINO](https://github.com/neuraloperator/physics_informed)
+- Youtube
+  - [iAI KAIST](https://www.youtube.com/@iaipostech9888)
+  - [Steve Brunton](https://www.youtube.com/@Eigensteve)
+
 ## awesome
 - [Awesome Scientific Computing](https://github.com/nschloe/awesome-scientific-computing)
 - [Awesome Scientific Python](https://github.com/rossant/awesome-scientific-python)
+- [Awesome Fluid Dynamics](https://github.com/lento234/awesome-fluid-dynamics)
 
 ## Wikipedia
 - [Scientific visualization](https://en.wikipedia.org/wiki/Scientific_visualization)
