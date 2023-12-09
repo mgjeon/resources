@@ -105,7 +105,7 @@ List of resources
   - [iAI KAIST](https://www.youtube.com/@iaipostech9888)
   - [Steve Brunton](https://www.youtube.com/@Eigensteve)
 
-## awesome
+## Awesome
 - [Awesome Scientific Computing](https://github.com/nschloe/awesome-scientific-computing)
 - [Awesome Scientific Python](https://github.com/rossant/awesome-scientific-python)
 - [Awesome Fluid Dynamics](https://github.com/lento234/awesome-fluid-dynamics)
@@ -114,3 +114,12 @@ List of resources
 - [Scientific visualization](https://en.wikipedia.org/wiki/Scientific_visualization)
 - [Category:Lists of software](https://en.wikipedia.org/wiki/Category:Lists_of_software)
 - [Category:Software comparisons](https://en.wikipedia.org/wiki/Category:Software_comparisons)
+
+## Book
+- [Scientific Computing: An Introductory Survey](https://heath.cs.illinois.edu/scicomp/pubdata/index.html)
+- [Data-Driven Science and Engineering](https://www.databookuw.com/)
+- [Deep Learning](https://www.deeplearningbook.org/)
+- [Probabilistic machine learning](https://probml.github.io/pml-book/)
+- [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html)
+- [Computational Physics](http://www.physics.ntua.gr/konstant/ComputationalPhysics/)
+- [Open Astrophysics Bookshelf](https://open-astrophysics-bookshelf.github.io/)
