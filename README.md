@@ -25,6 +25,7 @@ List of resources
 ## Machine Learning
 - [PyTorch](https://pytorch.org/) - Python
 - [TensorFlow](https://www.tensorflow.org/) - Python
+- [JAX](https://github.com/google/jax)
 - [scikit-learn](https://scikit-learn.org/) - Python
 - [AstroML](https://www.astroml.org/) - Python
 - [HelioML](https://github.com/HelioML/HelioML) - Python
@@ -115,7 +116,7 @@ List of resources
 - [Category:Lists of software](https://en.wikipedia.org/wiki/Category:Lists_of_software)
 - [Category:Software comparisons](https://en.wikipedia.org/wiki/Category:Software_comparisons)
 
-## Book
+## Docs
 - [Scientific Computing: An Introductory Survey](https://heath.cs.illinois.edu/scicomp/pubdata/index.html)
 - [Data-Driven Science and Engineering](https://www.databookuw.com/)
 - [Deep Learning](https://www.deeplearningbook.org/)
@@ -123,3 +124,6 @@ List of resources
 - [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html)
 - [Computational Physics](http://www.physics.ntua.gr/konstant/ComputationalPhysics/)
 - [Open Astrophysics Bookshelf](https://open-astrophysics-bookshelf.github.io/)
+- [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
+- [Practical Deep Learning](https://course.fast.ai/)
+- [AI Education (PyTorch Lightning)](https://lightning.ai/ai-education/)
