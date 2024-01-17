@@ -17,6 +17,8 @@ List of resources
 - [PyClaw](https://github.com/clawpack/pyclaw) - Python
 - [PETSc](https://petsc.org/release/)
 - [FEniCSx](https://fenicsproject.org/)
+- [Dedalus](https://github.com/DedalusProject/dedalus)
+- [FiPy](https://github.com/usnistgov/fipy)
 
 ## Numerical differentiation
 - [findiff](https://github.com/maroba/findiff) - Python
