@@ -50,6 +50,10 @@ List of resources
 - [VisIt](https://visit-dav.github.io/visit-website/index.html)
 - [plotly](https://plotly.com/)
 - [gnuplot](http://www.gnuplot.info/download.html)
+- [Processing](https://processing.org/)
+- [D3](https://d3js.org/)
+- [Manim](https://www.manim.community/)
+- [Gradio](https://www.gradio.app/)
 
 ## Data Analysis
 - [pandas](https://pandas.pydata.org/) - Python
