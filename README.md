@@ -1,5 +1,4 @@
-# resources
-List of resources
+This repository contains a collection of resources related to my area of interest.
 
 ## Hydrodynamics
 - [OpenFOAM](https://www.openfoam.com/) - C++
