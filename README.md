@@ -86,6 +86,7 @@ This repository contains a collection of resources related to my area of interes
 - [VAPOR](https://www.vapor.ucar.edu/)
 
 ## Art
+- [VPython](https://www.glowscript.org/)
 - [Processing](https://processing.org/)
 - [p5.js](https://p5js.org/)
 - [Manim](https://www.manim.community/)
