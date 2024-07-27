@@ -55,6 +55,11 @@ This repository contains a collection of resources related to my area of interes
 ### Python
 ####
 - [PyVista](https://github.com/pyvista/pyvista)
+- [How other Libraries Compare](https://tutorial.pyvista.org/tutorial/00_intro/index.html#how-other-libraries-compare)
+  - [Python Libraries for Mesh, Point Cloud, and Data Visualization](https://towardsdatascience.com/python-libraries-for-mesh-and-point-cloud-visualization-part-1-daa2af36de30)
+  - [How does PyVista relate to other visualization tools?](https://github.com/pyvista/pyvista/discussions/1438)
+  - [SciVis Libraries](https://pyviz.org/scivis/index.html)
+###
 - [Mayavi](https://github.com/enthought/mayavi)
 - [vedo](https://github.com/marcomusy/vedo)
 - [vispy](https://github.com/vispy/vispy)
