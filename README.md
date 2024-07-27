@@ -8,7 +8,7 @@ This repository contains a collection of resources related to my area of interes
 ---
 # Software
 ## Hydrodynamics
-- [OpenFOAM]([https://www.openfoam.com/](https://openfoam.org/)) - C++
+- [OpenFOAM](https://openfoam.org/) - C++
 - [JAX-Fluids](https://github.com/tumaer/JAXFLUIDS) - Python
 - [JAX-CFD](https://github.com/google/jax-cfd) - Python
 
@@ -31,10 +31,15 @@ This repository contains a collection of resources related to my area of interes
 - [numdifftools](https://github.com/pbrod/numdifftools) - Python
 
 ## Machine Learning
-- [PyTorch](https://pytorch.org/) - Python
-- [TensorFlow](https://www.tensorflow.org/) - Python
+- [scikit-learn](https://scikit-learn.org/)
+###
+- [PyTorch](https://pytorch.org/)
+- [PyTorch Lightning](https://lightning.ai/docs/pytorch/stable/)
+- [Hugging Face](https://huggingface.co/)
+###
+- [TensorFlow](https://www.tensorflow.org/)
 - [JAX](https://github.com/google/jax)
-- [scikit-learn](https://scikit-learn.org/) - Python
+- [Keras](https://keras.io/)
 
 ## Solar Physics
 - [SunPy](https://sunpy.org/) - Python
@@ -47,21 +52,56 @@ This repository contains a collection of resources related to my area of interes
 - [FastQSL](https://github.com/peijin94/FastQSL) - CUDA, Python (GPU)
 
 ## Visualization
-- [PyVista](https://github.com/pyvista/pyvista) - Python
-- [Mayavi](https://github.com/enthought/mayavi) - Python
-- [yt](https://yt-project.org/) - Python
-- [K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) - Python
-- [matplotlib](https://matplotlib.org/) - Python
-- [bokeh](https://bokeh.org/) - Python
-- [seaborn](https://seaborn.pydata.org/) - Python
+### Python
+####
+- [PyVista](https://github.com/pyvista/pyvista)
+- [Mayavi](https://github.com/enthought/mayavi)
+- [vedo](https://github.com/marcomusy/vedo)
+- [vispy](https://github.com/vispy/vispy)
+- [fury](https://github.com/fury-gl/fury)
+- [ipyvolume](https://github.com/widgetti/ipyvolume)
+- [K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter)
+####
+- [matplotlib](https://matplotlib.org/)
+- [seaborn](https://seaborn.pydata.org/)
+- [bokeh](https://bokeh.org/)
+- [plotly](https://plotly.com/)
+- [dash](https://github.com/plotly/dash)
+- [yt](https://yt-project.org/)
+
+### JavaScript
+- [D3](https://d3js.org/)
+
+### Command line tool
+- [gnuplot](http://www.gnuplot.info/download.html)
+
+### GUI
 - [ParaView](https://www.paraview.org/)
 - [VisIt](https://visit-dav.github.io/visit-website/index.html)
-- [plotly](https://plotly.com/)
-- [gnuplot](http://www.gnuplot.info/download.html)
+- [VAPOR](https://www.vapor.ucar.edu/)
+
+## Art
 - [Processing](https://processing.org/)
-- [D3](https://d3js.org/)
+- [p5.js](https://p5js.org/)
 - [Manim](https://www.manim.community/)
+
+## Web
 - [Gradio](https://www.gradio.app/)
+- [Django](https://www.djangoproject.com/)
+- [Flask](https://flask.palletsprojects.com/)
+- [FastAPI](https://fastapi.tiangolo.com/)
+- [Node.js](https://nodejs.org)
+- [React](https://react.dev/)
+- [Angular](https://angular.dev/)
+- [Vue](https://vuejs.org/)
+
+## Dev
+- [Docker](https://www.docker.com/)
+- [Podman](https://podman.io/)
+
+## LLM
+- [Ollama](https://ollama.com/)
+- [LangChain](https://www.langchain.com/)
 
 ## Data Analysis
 - [pandas](https://pandas.pydata.org/) - Python
