@@ -5,7 +5,7 @@ This repository contains a collection of resources related to my area of interes
 - [Course](#course)
 - [Website](#website)
 
-
+---
 # Software
 ## Hydrodynamics
 - [OpenFOAM](https://www.openfoam.com/) - C++
@@ -112,9 +112,11 @@ This repository contains a collection of resources related to my area of interes
 - [Scientific visualization](https://en.wikipedia.org/wiki/Scientific_visualization)
 - [Category:Lists of software](https://en.wikipedia.org/wiki/Category:Lists_of_software)
 - [Category:Software comparisons](https://en.wikipedia.org/wiki/Category:Software_comparisons)
-
+  
+---
 # Course
 ## Data Science, Machine Learning, Deep Learning
+###
 - [Deep Learning](https://www.deeplearningbook.org/)
 - [Dive into Deep Learning](https://d2l.ai/index.html)
 - [Probabilistic machine learning](https://probml.github.io/pml-book/)
@@ -124,36 +126,36 @@ This repository contains a collection of resources related to my area of interes
 - [AstroML](https://www.astroml.org/)
 - [HelioML](https://github.com/HelioML/HelioML)
 - [SciML](https://sciml.ai/)
-  
+###
 - [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)
 - [Data Science for Dynamical Systems Course Materials](https://github.com/DS-4-DS/DS4DS_Course)
-
+###
 - [Data-Driven Science and Engineering](https://www.databookuw.com/)
 - [Practical Deep Learning](https://course.fast.ai/)
-
+###
 - [Steve Brunton](https://www.youtube.com/@Eigensteve)
 - [iAI KAIST](https://www.youtube.com/@iaipostech9888)
 - [이수안컴퓨터연구소](https://www.youtube.com/@user-ss5no9xw6e)
 
 ## Scientific Computing
 - [Harvard Applied Math 205; Advanced Scientific Computing: Numerical Methods](https://people.math.wisc.edu/~chr/am205/)
-
+###
 - [Riemann Problems and Jupyter Solutions](https://www.clawpack.org/riemann_book/)
 - [Scientific Python Lectures](https://lectures.scientific-python.org)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Julia Data Science](https://juliadatascience.io/)
 - [Fundamentals of Numerical Computation](https://tobydriscoll.net/fnc-julia/frontmatter.html)
-
+###
 - [Numerical Recipes](https://numerical.recipes/)
 - [Scientific Computing: An Introductory Survey](https://heath.cs.illinois.edu/scicomp/pubdata/index.html)
 - [Computational Physics](http://www.physics.ntua.gr/konstant/ComputationalPhysics/)
 - [Introduction to Computational Astrophysical Hydrodynamics](https://open-astrophysics-bookshelf.github.io/numerical_exercises/))
 - [Numerical Python in Astronomy and Astrophysics](https://link.springer.com/book/10.1007/978-3-030-70347-9)
 - [Computational Methods in Plasma Physics](https://www.amazon.com/Computational-Methods-Physics-Chapman-Science/dp/1439810214)
-
+###
 - [AST560: Computational Plasma Physics 2021](https://ast560.readthedocs.io/en/latest/#references)
 - [Introduction to Computational Thinking](https://computationalthinking.mit.edu/)
-
+###
 - [Differential Equation Models](https://nextjournal.com/sosiris-de/diffeq-models#)
 
 ## Astrophysics
@@ -169,6 +171,7 @@ This repository contains a collection of resources related to my area of interes
 ## Economics
 - [QuantEcon](https://quantecon.org)
 
+---
 # Website
 ## Space weather
 - [CCMC](https://ccmc.gsfc.nasa.gov/)
