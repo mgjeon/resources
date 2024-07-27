@@ -1,5 +1,6 @@
 This repository contains a collection of resources related to my area of interest.
 
+# Software
 ## Hydrodynamics
 - [OpenFOAM](https://www.openfoam.com/) - C++
 - [JAX-Fluids](https://github.com/tumaer/JAXFLUIDS) - Python
@@ -86,18 +87,6 @@ This repository contains a collection of resources related to my area of interes
 - [Octave](https://octave.org/) - a free replacement for [MATLAB](https://www.mathworks.com/products/matlab.html)
 - [GDL](https://github.com/gnudatalanguage/gdl) - a free replacement for [IDL](https://en.wikipedia.org/wiki/IDL_(programming_language))
 
-## Space weather
-- [CCMC](https://ccmc.gsfc.nasa.gov/)
-- [NOAA/SWPC](https://www.swpc.noaa.gov/)
-- [ESA-SWE](https://swe.ssa.esa.int/)
-- [우주전파센터](https://spaceweather.rra.go.kr/)
-- [宇宙天気予報](https://swc.nict.go.jp/)
-- [ISES](http://www.spaceweather.org/index.jsp)
-
-## Observation
-- [SDO](https://sdo.gsfc.nasa.gov/)
-- [JSOC](http://jsoc.stanford.edu/)
-
 ## Physics-informed machine learning
 - [DeepXDE](https://github.com/lululxvi/deepxde)
 - [NVIDIA Modulus](https://developer.nvidia.com/modulus)
@@ -107,9 +96,6 @@ This repository contains a collection of resources related to my area of interes
 - [FBPINNs](https://github.com/benmoseley/FBPINNs)
 - [PI-DeepONet](https://github.com/PredictiveIntelligenceLab/Physics-informed-DeepONets)
 - [PINO](https://github.com/neuraloperator/physics_informed)
-- Youtube
-  - [iAI KAIST](https://www.youtube.com/@iaipostech9888)
-  - [Steve Brunton](https://www.youtube.com/@Eigensteve)
 
 ## Awesome
 - [Awesome Scientific Computing](https://github.com/nschloe/awesome-scientific-computing)
@@ -121,14 +107,54 @@ This repository contains a collection of resources related to my area of interes
 - [Category:Lists of software](https://en.wikipedia.org/wiki/Category:Lists_of_software)
 - [Category:Software comparisons](https://en.wikipedia.org/wiki/Category:Software_comparisons)
 
-## Docs
-- [Scientific Computing: An Introductory Survey](https://heath.cs.illinois.edu/scicomp/pubdata/index.html)
-- [Data-Driven Science and Engineering](https://www.databookuw.com/)
+
+# Course
+## Data Science, Machine Learning, Deep Learning
+### Book
 - [Deep Learning](https://www.deeplearningbook.org/)
+- [Dive into Deep Learning](https://d2l.ai/index.html)
 - [Probabilistic machine learning](https://probml.github.io/pml-book/)
 - [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html)
-- [Computational Physics](http://www.physics.ntua.gr/konstant/ComputationalPhysics/)
-- [Open Astrophysics Bookshelf](https://open-astrophysics-bookshelf.github.io/)
 - [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
+- [Hugging Face Learn](https://huggingface.co/learn)
+
+### Course
+- [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)
+- [Data Science for Dynamical Systems Course Materials](https://github.com/DS-4-DS/DS4DS_Course)
+
+### Book + Course
+- [Data-Driven Science and Engineering](https://www.databookuw.com/)
 - [Practical Deep Learning](https://course.fast.ai/)
-- [AI Education (PyTorch Lightning)](https://lightning.ai/ai-education/)
+
+### Channel
+- [Steve Brunton](https://www.youtube.com/@Eigensteve)
+- [iAI KAIST](https://www.youtube.com/@iaipostech9888)
+- [이수안컴퓨터연구소](https://www.youtube.com/@user-ss5no9xw6e)
+
+## Scientific Computing
+- [Harvard Applied Math 205; Advanced Scientific Computing: Numerical Methods](https://people.math.wisc.edu/~chr/am205/)
+- [Scientific Computing: An Introductory Survey](https://heath.cs.illinois.edu/scicomp/pubdata/index.html)
+- [Computational Physics](http://www.physics.ntua.gr/konstant/ComputationalPhysics/)
+- [Introduction to Computational Astrophysical Hydrodynamics](https://open-astrophysics-bookshelf.github.io/numerical_exercises/))
+- [Riemann Problems and Jupyter Solutions](https://www.clawpack.org/riemann_book/)
+
+## Astrophysics
+- [Open Astrophysics Bookshelf](https://open-astrophysics-bookshelf.github.io/)
+- [CCD Data Reduction](https://www.astropy.org/ccd-reduction-and-photometry-guide)
+- [Dynamics and Astrophysics of Galaxies](https://galaxiesbook.org/)
+- [Gravitational Wave Open Data Workshop](https://gw-odw.thinkific.com/)
+- [CASA Guides](https://casaguides.nrao.edu/index.php?title=Main_Page)
+
+
+# Website
+## Space weather
+- [CCMC](https://ccmc.gsfc.nasa.gov/)
+- [NOAA/SWPC](https://www.swpc.noaa.gov/)
+- [ESA-SWE](https://swe.ssa.esa.int/)
+- [우주전파센터](https://spaceweather.rra.go.kr/)
+- [宇宙天気予報](https://swc.nict.go.jp/)
+- [ISES](http://www.spaceweather.org/index.jsp)
+
+## Observation
+- [SDO](https://sdo.gsfc.nasa.gov/)
+- [JSOC](http://jsoc.stanford.edu/)
