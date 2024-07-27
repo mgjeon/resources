@@ -8,7 +8,7 @@ This repository contains a collection of resources related to my area of interes
 ---
 # Software
 ## Hydrodynamics
-- [OpenFOAM](https://www.openfoam.com/) - C++
+- [OpenFOAM]([https://www.openfoam.com/](https://openfoam.org/)) - C++
 - [JAX-Fluids](https://github.com/tumaer/JAXFLUIDS) - Python
 - [JAX-CFD](https://github.com/google/jax-cfd) - Python
 
@@ -157,6 +157,10 @@ This repository contains a collection of resources related to my area of interes
 - [Introduction to Computational Thinking](https://computationalthinking.mit.edu/)
 ###
 - [Differential Equation Models](https://nextjournal.com/sosiris-de/diffeq-models#)
+###
+- [Notes on Computational Fluid Dynamics](https://doc.cfd.direct/notes/cfd-general-principles/)
+- [OpenFOAM v12 User Guide](https://doc.cfd.direct/openfoam/user-guide-v12/index)
+- [Blender for OpenFOAM Users](https://tkeskita.kapsi.fi/blender/)
 
 ## Astrophysics
 - [Open Astrophysics Bookshelf](https://open-astrophysics-bookshelf.github.io/)
