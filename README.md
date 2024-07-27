@@ -180,6 +180,7 @@ This repository contains a collection of resources related to my area of interes
 - [Practical Deep Learning](https://course.fast.ai/)
 ###
 - [Steve Brunton](https://www.youtube.com/@Eigensteve)
+- [Machine Learning & Simulation](https://www.youtube.com/@MachineLearningSimulation)
 - [iAI KAIST](https://www.youtube.com/@iaipostech9888)
 - [이수안컴퓨터연구소](https://www.youtube.com/@user-ss5no9xw6e)
 
@@ -191,6 +192,7 @@ This repository contains a collection of resources related to my area of interes
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Julia Data Science](https://juliadatascience.io/)
 - [Fundamentals of Numerical Computation](https://tobydriscoll.net/fnc-julia/frontmatter.html)
+- [THE NATURE OF CODE](https://natureofcode.com/)
 ###
 - [Numerical Recipes](https://numerical.recipes/)
 - [Scientific Computing: An Introductory Survey](https://heath.cs.illinois.edu/scicomp/pubdata/index.html)
@@ -207,6 +209,11 @@ This repository contains a collection of resources related to my area of interes
 - [Notes on Computational Fluid Dynamics](https://doc.cfd.direct/notes/cfd-general-principles/)
 - [OpenFOAM v12 User Guide](https://doc.cfd.direct/openfoam/user-guide-v12/index)
 - [Blender for OpenFOAM Users](https://tkeskita.kapsi.fi/blender/)
+###
+- [Mr. P Solver](https://www.youtube.com/c/MrPSolver)
+- [Dot Physics](https://www.youtube.com/channel/UCVxIDFY01y4n_c2lK1TB-KA)
+###
+- [The Coding Train](https://thecodingtrain.com/)
 
 ## Astrophysics
 - [Open Astrophysics Bookshelf](https://open-astrophysics-bookshelf.github.io/)
