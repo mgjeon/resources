@@ -172,6 +172,7 @@ This repository contains a collection of resources related to my area of interes
 - [AstroML](https://www.astroml.org/)
 - [HelioML](https://github.com/HelioML/HelioML)
 - [SciML](https://sciml.ai/)
+- [Machine Learning | Google developer](https://developers.google.com/machine-learning)
 ###
 - [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)
 - [Data Science for Dynamical Systems Course Materials](https://github.com/DS-4-DS/DS4DS_Course)
