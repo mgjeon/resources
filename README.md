@@ -190,6 +190,7 @@ This repository contains a collection of resources related to my area of interes
 - [Riemann Problems and Jupyter Solutions](https://www.clawpack.org/riemann_book/)
 - [Scientific Python Lectures](https://lectures.scientific-python.org)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Python for Data Analysis](https://wesmckinney.com/book/)
 - [Julia Data Science](https://juliadatascience.io/)
 - [Fundamentals of Numerical Computation](https://tobydriscoll.net/fnc-julia/frontmatter.html)
 - [THE NATURE OF CODE](https://natureofcode.com/)
