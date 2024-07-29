@@ -8,27 +8,31 @@ This repository contains a collection of resources related to my area of interes
 ---
 # Software
 ## Hydrodynamics
-- [OpenFOAM](https://openfoam.org/) - C++
-- [JAX-Fluids](https://github.com/tumaer/JAXFLUIDS) - Python
-- [JAX-CFD](https://github.com/google/jax-cfd) - Python
+- [OpenFOAM](https://openfoam.org/)
+- [JAX-Fluids](https://github.com/tumaer/JAXFLUIDS)
+- [JAX-CFD](https://github.com/google/jax-cfd)
+- [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+- [WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl)
 
 ## Magnetohydrodynamics
-- [Pencil Code](https://pencil-code.nordita.org/) - Fortran
-- [OpenMHD](https://github.com/zenitani/OpenMHD) - Fortran
-- [ppkMHD](https://github.com/pkestene/ppkMHD) - C++
-- [MHDFlows.jl](https://github.com/MHDFlows/MHDFlows.jl) - Julia
-- [GridapMHD.jl](https://github.com/gridapapps/GridapMHD.jl) - Julia
+- [OpenMHD](https://github.com/zenitani/OpenMHD)
+- [Pencil Code](https://pencil-code.nordita.org/)
+- [ppkMHD](https://github.com/pkestene/ppkMHD)
+- [MHDFlows.jl](https://github.com/MHDFlows/MHDFlows.jl)
+- [GridapMHD.jl](https://github.com/gridapapps/GridapMHD.jl)
 
 ## Partial differential equation
-- [PyClaw](https://github.com/clawpack/pyclaw) - Python
+- [PyClaw](https://github.com/clawpack/pyclaw)
 - [PETSc](https://petsc.org/release/)
 - [FEniCSx](https://fenicsproject.org/)
 - [Dedalus](https://github.com/DedalusProject/dedalus)
 - [FiPy](https://github.com/usnistgov/fipy)
+- [MethodOfLines.jl](https://docs.sciml.ai/MethodOfLines/stable/)
+- [Trixi.jl](https://docs.sciml.ai/Trixi/stable/)
 
 ## Numerical differentiation
-- [findiff](https://github.com/maroba/findiff) - Python
-- [numdifftools](https://github.com/pbrod/numdifftools) - Python
+- [findiff](https://github.com/maroba/findiff)
+- [numdifftools](https://github.com/pbrod/numdifftools)
 
 ## Machine Learning
 - [scikit-learn](https://scikit-learn.org/)
