@@ -191,6 +191,9 @@ This repository contains a collection of resources related to my area of interes
 - [Machine Learning & Simulation](https://www.youtube.com/@MachineLearningSimulation)
 - [iAI KAIST](https://www.youtube.com/@iaipostech9888)
 - [이수안컴퓨터연구소](https://www.youtube.com/@user-ss5no9xw6e)
+###
+- [Kaggle](https://www.kaggle.com/)
+- [DrivenData](https://www.drivendata.org/)
 
 ## Scientific Computing
 - [Harvard Applied Math 205; Advanced Scientific Computing: Numerical Methods](https://people.math.wisc.edu/~chr/am205/)
