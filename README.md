@@ -179,6 +179,7 @@ This repository contains a collection of resources related to my area of interes
 - [Machine Learning | Google developer](https://developers.google.com/machine-learning)
 - [Hello Universe](https://archive.stsci.edu/hello-universe)
 - [LSSTC Data Science Fellowship Program](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions)
+- [A3Net Summer School 2024](https://github.com/IPMUCD3/a3net_2024)
 ###
 - [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)
 - [Data Science for Dynamical Systems Course Materials](https://github.com/DS-4-DS/DS4DS_Course)
