@@ -227,6 +227,8 @@ This repository contains a collection of resources related to my area of interes
 - [Dot Physics](https://www.youtube.com/channel/UCVxIDFY01y4n_c2lK1TB-KA)
 ###
 - [The Coding Train](https://thecodingtrain.com/)
+###
+- [Scientific Python Workshop](https://www.youtube.com/playlist?list=PLISXH-iEM4JlMBu-spRORmhmk9mWKxJeG)
 
 ## Astrophysics
 - [Open Astrophysics Bookshelf](https://open-astrophysics-bookshelf.github.io/)
@@ -234,6 +236,7 @@ This repository contains a collection of resources related to my area of interes
 - [Dynamics and Astrophysics of Galaxies](https://galaxiesbook.org/)
 - [Gravitational Wave Open Data Workshop](https://gw-odw.thinkific.com/)
 - [CASA Guides](https://casaguides.nrao.edu/index.php?title=Main_Page)
+- [Python for Astronomers](https://prappleizer.github.io/)
 
 ## Computer Science
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
