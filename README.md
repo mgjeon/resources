@@ -167,6 +167,7 @@ This repository contains a collection of resources related to my area of interes
 # Course
 ## Data Science, Machine Learning, Deep Learning
 ###
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 - [Deep Learning](https://www.deeplearningbook.org/)
 - [Dive into Deep Learning](https://d2l.ai/index.html)
 - [Probabilistic machine learning](https://probml.github.io/pml-book/)
@@ -209,7 +210,7 @@ This repository contains a collection of resources related to my area of interes
 - [Numerical Recipes](https://numerical.recipes/)
 - [Scientific Computing: An Introductory Survey](https://heath.cs.illinois.edu/scicomp/pubdata/index.html)
 - [Computational Physics](http://www.physics.ntua.gr/konstant/ComputationalPhysics/)
-- [Introduction to Computational Astrophysical Hydrodynamics](https://open-astrophysics-bookshelf.github.io/numerical_exercises/))
+- [Introduction to Computational Astrophysical Hydrodynamics](https://open-astrophysics-bookshelf.github.io/numerical_exercises/)
 - [Numerical Python in Astronomy and Astrophysics](https://link.springer.com/book/10.1007/978-3-030-70347-9)
 - [Computational Methods in Plasma Physics](https://www.amazon.com/Computational-Methods-Physics-Chapman-Science/dp/1439810214)
 ###
