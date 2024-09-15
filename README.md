@@ -219,6 +219,7 @@ This repository contains a collection of resources related to my area of interes
 - [Computational Physics course (PHYS 6350)](https://github.com/vlvovch/PHYS6350-ComputationalPhysics)
 ###
 - [Differential Equation Models](https://nextjournal.com/sosiris-de/diffeq-models#)
+- [PDE Tutorial](https://cpp-review-dune.github.io/python-pde/intro.html)
 ###
 - [Notes on Computational Fluid Dynamics](https://doc.cfd.direct/notes/cfd-general-principles/)
 - [OpenFOAM v12 User Guide](https://doc.cfd.direct/openfoam/user-guide-v12/index)
