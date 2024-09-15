@@ -216,6 +216,7 @@ This repository contains a collection of resources related to my area of interes
 ###
 - [AST560: Computational Plasma Physics 2021](https://ast560.readthedocs.io/en/latest/#references)
 - [Introduction to Computational Thinking](https://computationalthinking.mit.edu/)
+- [Computational Physics course (PHYS 6350)](https://github.com/vlvovch/PHYS6350-ComputationalPhysics)
 ###
 - [Differential Equation Models](https://nextjournal.com/sosiris-de/diffeq-models#)
 ###
