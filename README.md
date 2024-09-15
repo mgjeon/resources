@@ -226,6 +226,7 @@ This repository contains a collection of resources related to my area of interes
 ###
 - [Mr. P Solver](https://www.youtube.com/c/MrPSolver)
 - [Dot Physics](https://www.youtube.com/channel/UCVxIDFY01y4n_c2lK1TB-KA)
+- [doggo dot jl](https://www.youtube.com/@doggodotjl)
 ###
 - [The Coding Train](https://thecodingtrain.com/)
 ###
