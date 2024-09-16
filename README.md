@@ -213,7 +213,7 @@ This repository contains a collection of resources related to my area of interes
 - [Scientific Computing: An Introductory Survey](https://heath.cs.illinois.edu/scicomp/pubdata/index.html)
 - [Computational Physics](http://www.physics.ntua.gr/konstant/ComputationalPhysics/)
 - [Introduction to Computational Astrophysical Hydrodynamics](https://open-astrophysics-bookshelf.github.io/numerical_exercises/)
-- [Numerical Python in Astronomy and Astrophysics](https://link.springer.com/book/10.1007/978-3-030-70347-9)
+- [Numerical Python in Astronomy and Astrophysics](https://www.physik.uni-hamburg.de/en/hs/group---schmidt/teaching.html)
 - [Computational Methods in Plasma Physics](https://www.amazon.com/Computational-Methods-Physics-Chapman-Science/dp/1439810214)
 ###
 - [AST560: Computational Plasma Physics 2021](https://ast560.readthedocs.io/en/latest/#references)
