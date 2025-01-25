@@ -54,7 +54,6 @@ This repository contains a collection of resources related to my area of interes
 - [QSL Squasher](https://bitbucket.org/tassev/qsl_squasher/src/hg/) - C++, Python
 - [FastQSL](https://github.com/el2718/FastQSL) - IDL, Fortran (CPU)
 - [FastQSL](https://github.com/peijin94/FastQSL) - CUDA, Python (GPU)
-
 - https://github.com/RobertJaro
 - https://github.com/mbobra
 - https://github.com/antyeates1983
