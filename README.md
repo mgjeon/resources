@@ -7,6 +7,29 @@ This repository contains a collection of resources related to my area of interes
 
 ---
 # Software
+## Solar Physics
+- [SunPy](https://sunpy.org/) - Python
+- [SolarSoft](https://www.lmsal.com/solarsoft/) - IDL
+- [ARTop](https://github.com/DavidMacT/ARTop) - C++, Python
+- [Magnetic Modeling Codes](https://github.com/njuguoyang/magnetic_modeling_codes) - IDL, Fortran
+- [Calculate Squashing Factor and Twist Number](http://staff.ustc.edu.cn/~rliu/qfactor.html) - IDL, Fortran
+- [QSL Squasher](https://bitbucket.org/tassev/qsl_squasher/src/hg/) - C++, Python
+- [FastQSL](https://github.com/el2718/FastQSL) - IDL, Fortran (CPU)
+- [FastQSL](https://github.com/peijin94/FastQSL) - CUDA, Python (GPU)
+- https://github.com/RobertJaro
+- https://github.com/mbobra
+- https://github.com/antyeates1983
+- https://github.com/predsci
+- https://github.com/vale-salvatelli/sdo-autocal_pub
+- https://github.com/spaceml-org/expanding-sdo-capabilities
+- https://github.com/spaceml-org/SDO-FM
+- https://github.com/spaceml-org/helio_tools
+- https://github.com/spaceml-org/helionb-sdoml
+- https://github.com/oxai4science/sdoml-lite
+- https://github.com/SDOML
+- https://github.com/Valentin-Aslanyan/UFiT
+- https://github.com/heliophysicsPy
+
 ## Hydrodynamics
 - [OpenFOAM](https://openfoam.org/)
 - [JAX-Fluids](https://github.com/tumaer/JAXFLUIDS)
@@ -44,28 +67,6 @@ This repository contains a collection of resources related to my area of interes
 - [TensorFlow](https://www.tensorflow.org/)
 - [JAX](https://github.com/google/jax)
 - [Keras](https://keras.io/)
-
-## Solar Physics
-- [SunPy](https://sunpy.org/) - Python
-- [SolarSoft](https://www.lmsal.com/solarsoft/) - IDL
-- [ARTop](https://github.com/DavidMacT/ARTop) - C++, Python
-- [Magnetic Modeling Codes](https://github.com/njuguoyang/magnetic_modeling_codes) - IDL, Fortran
-- [Calculate Squashing Factor and Twist Number](http://staff.ustc.edu.cn/~rliu/qfactor.html) - IDL, Fortran
-- [QSL Squasher](https://bitbucket.org/tassev/qsl_squasher/src/hg/) - C++, Python
-- [FastQSL](https://github.com/el2718/FastQSL) - IDL, Fortran (CPU)
-- [FastQSL](https://github.com/peijin94/FastQSL) - CUDA, Python (GPU)
-- https://github.com/RobertJaro
-- https://github.com/mbobra
-- https://github.com/antyeates1983
-- https://github.com/predsci
-- https://github.com/vale-salvatelli/sdo-autocal_pub
-- https://github.com/spaceml-org/expanding-sdo-capabilities
-- https://github.com/spaceml-org/SDO-FM
-- https://github.com/spaceml-org/helio_tools
-- https://github.com/spaceml-org/helionb-sdoml
-- https://github.com/oxai4science/sdoml-lite
-- https://github.com/SDOML
-- https://github.com/Valentin-Aslanyan/UFiT
 
 ## Visualization
 ### Python
