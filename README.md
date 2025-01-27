@@ -201,6 +201,7 @@ This repository contains a collection of resources related to my area of interes
 ###
 - [Data-Driven Science and Engineering](https://www.databookuw.com/)
 - [Practical Deep Learning](https://course.fast.ai/)
+- [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
 ###
 - [Steve Brunton](https://www.youtube.com/@Eigensteve)
 - [Machine Learning & Simulation](https://www.youtube.com/@MachineLearningSimulation)
@@ -223,7 +224,8 @@ This repository contains a collection of resources related to my area of interes
 - [Numerical Methods for Physics](https://github.com/AlejGarcia/NM4P)
 ###
 - [Numerical Recipes](https://numerical.recipes/)
-- [Scientific Computing: An Introductory Survey](https://heath.cs.illinois.edu/scicomp/pubdata/index.html)
+- [Scientific Computing: An Introductory Survey](https://heath.cs.illinoScientific Python Lectures
+is.edu/scicomp/pubdata/index.html)
 - [Computational Physics](http://www.physics.ntua.gr/konstant/ComputationalPhysics/)
 - [Introduction to Computational Astrophysical Hydrodynamics](https://open-astrophysics-bookshelf.github.io/numerical_exercises/)
 - [Numerical Python in Astronomy and Astrophysics](https://www.physik.uni-hamburg.de/en/hs/group---schmidt/teaching.html)
