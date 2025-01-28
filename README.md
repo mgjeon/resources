@@ -203,6 +203,7 @@ This repository contains a collection of resources related to my area of interes
 - [Practical Deep Learning](https://course.fast.ai/)
 - [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
 - [Think Stats](https://allendowney.github.io/ThinkStats/)
+- [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)
 ###
 - [Steve Brunton](https://www.youtube.com/@Eigensteve)
 - [Machine Learning & Simulation](https://www.youtube.com/@MachineLearningSimulation)
