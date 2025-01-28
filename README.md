@@ -199,6 +199,7 @@ This repository contains a collection of resources related to my area of interes
 - [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)
 - [Data Science for Dynamical Systems Course Materials](https://github.com/DS-4-DS/DS4DS_Course)
 ###
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Data-Driven Science and Engineering](https://www.databookuw.com/)
 - [Practical Deep Learning](https://course.fast.ai/)
 - [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
