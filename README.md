@@ -204,6 +204,8 @@ This repository contains a collection of resources related to my area of interes
 - [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
 - [Think Stats](https://allendowney.github.io/ThinkStats/)
 - [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)
+- [Statistics and Geodata Analysis using Python](https://www.geo.fu-berlin.de/en/v/soga-py/index.html)
+- [Neural Data Science in Python](https://neuraldatascience.io/intro.html)
 ###
 - [Steve Brunton](https://www.youtube.com/@Eigensteve)
 - [Machine Learning & Simulation](https://www.youtube.com/@MachineLearningSimulation)
