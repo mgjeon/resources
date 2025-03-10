@@ -1,6 +1,51 @@
 This repository contains a collection of resources related to my area of interest.
 
-## Contents
+## Sun & Space Weather
+- [NOAA/SWPC](https://www.swpc.noaa.gov/)
+- [NASA/CCMC](https://ccmc.gsfc.nasa.gov/)
+- [SolarSoft Latest Events](https://www.lmsal.com/solarsoft/latest_events/)
+- [SolarMonitor](https://www.solarmonitor.org/)
+- [Helioviewer](http://www.helioviewer.org/)
+- [Heliophysics Events Knowledgebase](https://www.lmsal.com/hek/)
+- [Virtual Solar Observatory](https://sdac.virtualsolar.org/cgi/search)
+- [SPoCA](https://spoca.oma.be/)
+- [CME Catalog](https://solar.jhuapl.edu/Data-Products/COR-CME-Catalog.php)
+
+## Journal
+- [AAS Journals](https://journals.aas.org/)
+- [Astronomy & Astrophysics](https://www.aanda.org/)
+- [Solar Physics](https://link.springer.com/journal/11207)
+- [Nature Astronomy](https://www.nature.com/natastron/)
+- [Frontiers in Astronomy and Space Sciences](https://www.frontiersin.org/journals/astronomy-and-space-sciences)
+- [Living Reviews in Solar Physics](https://link.springer.com/journal/41116)
+- [Annual Review of Astronomy and Astrophysics](https://www.annualreviews.org/content/journals/astro)
+- [American Journal of Physics](https://pubs.aip.org/aapt/ajp)
+- [European Journal of Physics](https://iopscience.iop.org/journal/0143-0807)
+
+## News & Meetings
+- [SolarNews - Science highlights](https://solarnews.nso.edu/category/science-highlights/)
+- [HAO - News & Events](https://www2.hao.ucar.edu/hao-news-events)
+- [SOHO Community](https://soho.nascom.nasa.gov/community/)
+- [SHINE](https://helioshine.org/)
+- [IHDEA](https://ihdea.net/)
+- [Machine Learning in Heliophysics](https://ml-helio.github.io/)
+- [PyHC](https://heliopython.org/)
+- [NASA Heliophysics Summer School](https://heliophysics.ucar.edu/summer-school)
+- [European Space Weather Week](https://eswan.eu/index.php/organs/esww-programme-committee)
+- [한국천문학회](https://www.kas.org/)
+- [한국우주과학회](https://ksss.or.kr/)
+- [IAU](https://www.iau.org/)
+- [AGU](https://www.agu.org/)
+- [EGU](https://www.egu.eu/)
+- [AOGS](https://www.asiaoceania.org/society/public.asp?page=home.asp)
+- [COSPAR](https://cosparhq.cnes.fr/)
+- [NeurlPS](https://neurips.cc/)
+- [CVPR](https://cvpr.thecvf.com/)
+- [ICML](https://icml.cc/)
+
+---
+
+# Contents
 - [Software](#software)
 - [Course](#course)
 - [Website](#website)
