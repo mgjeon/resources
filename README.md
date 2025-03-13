@@ -263,6 +263,7 @@ This repository contains a collection of resources related to my area of interes
 
 ## Scientific Computing
 - [Harvard Applied Math 205; Advanced Scientific Computing: Numerical Methods](https://people.math.wisc.edu/~chr/am205/)
+- [Harvard Applied Math 225; Advanced Scientific Computing: Numerical Methods II](https://people.math.wisc.edu/~chr/am225/)
 ###
 - [Riemann Problems and Jupyter Solutions](https://www.clawpack.org/riemann_book/)
 - [Scientific Python Lectures](https://lectures.scientific-python.org)
