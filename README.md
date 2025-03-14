@@ -244,6 +244,7 @@ This repository contains a collection of resources related to my area of interes
 ###
 - [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)
 - [Data Science for Dynamical Systems Course Materials](https://github.com/DS-4-DS/DS4DS_Course)
+- [Time series analysis with Python](https://github.com/FilippoMB/python-time-series-handbook)
 ###
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Data-Driven Science and Engineering](https://www.databookuw.com/)
