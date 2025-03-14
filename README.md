@@ -240,6 +240,7 @@ This repository contains a collection of resources related to my area of interes
 - [LSSTC Data Science Fellowship Program](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions)
 - [A3Net Summer School 2024](https://github.com/IPMUCD3/a3net_2024)
 - [Generative Deep Learning](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition)
+- [Applied Deep Learning](https://github.com/maziarraissi/Applied-Deep-Learning)
 ###
 - [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)
 - [Data Science for Dynamical Systems Course Materials](https://github.com/DS-4-DS/DS4DS_Course)
