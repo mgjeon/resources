@@ -224,6 +224,7 @@ This repository contains a collection of resources related to my area of interes
 ---
 # Course
 ## Time Series
+- [Modern Aspects of Big Time Series Forecasting](https://lovvge.github.io/Forecasting-Tutorial-IJCAI-2021/)
 - [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
 - [Time Series Analysis and Forecast](https://github.com/oscar-defelice/TimeSeries-lectures)
 - [Time series analysis with Python](https://github.com/FilippoMB/python-time-series-handbook)
