@@ -223,6 +223,15 @@ This repository contains a collection of resources related to my area of interes
   
 ---
 # Course
+## Time Series
+- [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
+- [Time Series Analysis and Forecast](https://github.com/oscar-defelice/TimeSeries-lectures)
+- [Time series analysis with Python](https://github.com/FilippoMB/python-time-series-handbook)
+- [GluonTS](https://github.com/awslabs/gluonts)
+- [Nixtlaverse](https://nixtlaverse.nixtla.io/)
+- [skforecast](https://skforecast.org/)
+- [sktime](https://www.sktime.net/en/stable/)
+
 ## Data Science, Machine Learning, Deep Learning
 ###
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
@@ -245,9 +254,6 @@ This repository contains a collection of resources related to my area of interes
 - [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)
 - [Data Science for Dynamical Systems Course Materials](https://github.com/DS-4-DS/DS4DS_Course)
 ###
-- [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
-- [Time Series Analysis and Forecast](https://github.com/oscar-defelice/TimeSeries-lectures)
-- [Time series analysis with Python](https://github.com/FilippoMB/python-time-series-handbook)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Data-Driven Science and Engineering](https://www.databookuw.com/)
 - [Practical Deep Learning](https://course.fast.ai/)
