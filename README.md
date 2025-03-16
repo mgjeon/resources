@@ -1,5 +1,9 @@
 This repository contains a collection of resources related to my area of interest.
 
+## General
+- [BRIEF LINUX MANUAL FOR WINDIE STUDENTS](https://robrutten.nl/rrweb/rjr-edu/manuals/linux-brief-manual.html)
+- [Resources for the ambitious undergraduate or beginning graduate researcher in astronomy & astrophysics](https://www.cita.utoronto.ca/~matzner/svc/resources.html)
+
 ## Sun & Space Weather
 - [NOAA/SWPC](https://www.swpc.noaa.gov/)
 - [NASA/CCMC](https://ccmc.gsfc.nasa.gov/)
