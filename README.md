@@ -1,5 +1,14 @@
 This repository contains a collection of resources related to my area of interest.
 
+# Contents
+- [Website](#website)
+- [Software](#software)
+- [Course](#course)
+
+# Website
+## Compendium
+- [Compendium solar spectrum formation](https://arxiv.org/abs/2103.02369)
+
 ## General
 - [BRIEF LINUX MANUAL FOR WINDIE STUDENTS](https://robrutten.nl/rrweb/rjr-edu/manuals/linux-brief-manual.html)
 - [Resources for the ambitious undergraduate or beginning graduate researcher in astronomy & astrophysics](https://www.cita.utoronto.ca/~matzner/svc/resources.html)
@@ -14,6 +23,12 @@ This repository contains a collection of resources related to my area of interes
 - [Virtual Solar Observatory](https://sdac.virtualsolar.org/cgi/search)
 - [SPoCA](https://spoca.oma.be/)
 - [CME Catalog](https://solar.jhuapl.edu/Data-Products/COR-CME-Catalog.php)
+- [ESA-SWE](https://swe.ssa.esa.int/)
+- [우주전파센터](https://spaceweather.rra.go.kr/)
+- [宇宙天気予報](https://swc.nict.go.jp/)
+- [ISES](http://www.spaceweather.org/index.jsp)
+- [SDO](https://sdo.gsfc.nasa.gov/)
+- [JSOC](http://jsoc.stanford.edu/)
 
 ## Journal
 - [AAS Journals](https://journals.aas.org/)
@@ -47,14 +62,9 @@ This repository contains a collection of resources related to my area of interes
 - [CVPR](https://cvpr.thecvf.com/)
 - [ICML](https://icml.cc/)
 
----
+## Physics
+- [myphysicslab](https://www.myphysicslab.com/)
 
-# Contents
-- [Software](#software)
-- [Course](#course)
-- [Website](#website)
-
----
 # Software
 ## Solar Physics
 - [SunPy](https://sunpy.org/) - Python
@@ -224,8 +234,7 @@ This repository contains a collection of resources related to my area of interes
 - [Scientific visualization](https://en.wikipedia.org/wiki/Scientific_visualization)
 - [Category:Lists of software](https://en.wikipedia.org/wiki/Category:Lists_of_software)
 - [Category:Software comparisons](https://en.wikipedia.org/wiki/Category:Software_comparisons)
-  
----
+
 # Course
 ## Time Series
 - [Modern Aspects of Big Time Series Forecasting](https://lovvge.github.io/Forecasting-Tutorial-IJCAI-2021/)
@@ -327,20 +336,3 @@ This repository contains a collection of resources related to my area of interes
   
 ## Economics
 - [QuantEcon](https://quantecon.org)
-
----
-# Website
-## Space weather
-- [CCMC](https://ccmc.gsfc.nasa.gov/)
-- [NOAA/SWPC](https://www.swpc.noaa.gov/)
-- [ESA-SWE](https://swe.ssa.esa.int/)
-- [우주전파센터](https://spaceweather.rra.go.kr/)
-- [宇宙天気予報](https://swc.nict.go.jp/)
-- [ISES](http://www.spaceweather.org/index.jsp)
-
-## Observation
-- [SDO](https://sdo.gsfc.nasa.gov/)
-- [JSOC](http://jsoc.stanford.edu/)
-
-## Physics
-- [myphysicslab](https://www.myphysicslab.com/)
