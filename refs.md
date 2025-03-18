@@ -282,6 +282,10 @@
 - [Kaggle](https://www.kaggle.com/)
 - [DrivenData](https://www.drivendata.org/)
 
+## Symbolic Regression
+- [PySR](https://github.com/MilesCranmer/PySR)
+- [SRBench](https://github.com/cavalab/srbench)
+
 ## Scientific Computing
 - [Harvard Applied Math 205; Advanced Scientific Computing: Numerical Methods](https://people.math.wisc.edu/~chr/am205/)
 - [Harvard Applied Math 225; Advanced Scientific Computing: Numerical Methods II](https://people.math.wisc.edu/~chr/am225/)
