@@ -1,7 +1,17 @@
-# Contents
-- [Website](#website)
-- [Software](#software)
-- [Course](#course)
+## Time Series
+- [Modern Aspects of Big Time Series Forecasting](https://lovvge.github.io/Forecasting-Tutorial-IJCAI-2021/)
+- [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
+- [Time Series Analysis and Forecast](https://github.com/oscar-defelice/TimeSeries-lectures)
+- [Time series analysis with Python](https://github.com/FilippoMB/python-time-series-handbook)
+- [Time series - pandas](https://pandas.pydata.org/docs/user_guide/timeseries.html)
+- [Time series - astropy](https://docs.astropy.org/en/stable/timeseries/index.html)
+- [Time series - sunpy](https://docs.sunpy.org/en/stable/generated/gallery/time_series/index.html)
+- [Time series - scikit-learn](https://scikit-learn.org/stable/auto_examples/applications/plot_cyclical_feature_engineering.html)
+- [Time series - Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html)
+- [Time series - Python for Data Analysis](https://wesmckinney.com/book/time-series)
+- [Time series - AstroML](https://www.astroml.org/astroML-notebooks/chapter10/README.html)
+
+---
 
 # Website
 ## Compendium
@@ -234,15 +244,7 @@
 - [Category:Software comparisons](https://en.wikipedia.org/wiki/Category:Software_comparisons)
 
 # Course
-## Time Series
-- [Modern Aspects of Big Time Series Forecasting](https://lovvge.github.io/Forecasting-Tutorial-IJCAI-2021/)
-- [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
-- [Time Series Analysis and Forecast](https://github.com/oscar-defelice/TimeSeries-lectures)
-- [Time series analysis with Python](https://github.com/FilippoMB/python-time-series-handbook)
-- [GluonTS](https://github.com/awslabs/gluonts)
-- [Nixtlaverse](https://nixtlaverse.nixtla.io/)
-- [skforecast](https://skforecast.org/)
-- [sktime](https://www.sktime.net/en/stable/)
+
 
 ## Data Science, Machine Learning, Deep Learning
 ###
