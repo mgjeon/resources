@@ -5,6 +5,9 @@
 - [Lightning AI](https://github.com/Lightning-AI)
 - [Ultralytics](https://github.com/ultralytics)
 - [Roboflow](https://github.com/roboflow)
+- [Meta Research](https://github.com/facebookresearch)
+- [nerfstudio](https://github.com/nerfstudio-project)
+- [OpenMMLab](https://github.com/open-mmlab)
 
 ## Organization (Sun and Space Weather)
 - [Predictive Science Inc.](https://github.com/predsci)
@@ -31,6 +34,10 @@
 - [py-pde](https://github.com/zwicker-group/py-pde)
 - [Dedalus](https://github.com/DedalusProject/dedalus)
 - [findiff](https://github.com/maroba/findiff)
+- [PhiFlow](https://github.com/tum-pbs/PhiFlow)
+- [JAX-FLUIDS](https://github.com/tumaer/JAXFLUIDS)
+- [JAX-CFD](https://github.com/google/jax-cfd)
+- [JAX-MD](https://github.com/jax-md/jax-md)
 - [Trixi.jl](https://github.com/trixi-framework)
 
 ## Additional References: [Click here](refs.md)
