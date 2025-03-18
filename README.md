@@ -18,6 +18,7 @@
 ## Time Series
 - [Darts](https://github.com/unit8co/darts)
 - [Nixtla](https://github.com/nixtla)
+- [tsai](https://github.com/timeseriesAI/tsai)
 - [GluonTS](https://github.com/awslabs/gluonts)
 - [skforecast](https://github.com/skforecast/skforecast)
 - [sktime](https://github.com/sktime/sktime)
