@@ -5,6 +5,7 @@
 
 ## Deep Learning Organization 
 - [Hugging Face](https://github.com/huggingface)
+- [Lightning AI](https://github.com/Lightning-AI)
 - [Ultralytics](https://github.com/ultralytics)
 - [Roboflow](https://github.com/roboflow)
 
