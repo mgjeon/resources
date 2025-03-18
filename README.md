@@ -12,7 +12,7 @@
 ## AutoML
 - [AutoGluon](https://github.com/autogluon/autogluon)
 
-## Semantic Segmentation
+## Image Segmentation
 - [segmentation_models.pytorch](https://github.com/qubvel-org/segmentation_models.pytorch)
 
 ## Time Series
