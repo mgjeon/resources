@@ -11,6 +11,7 @@
 
 ## Organization (Sun and Space Weather)
 - [Predictive Science Inc.](https://github.com/predsci)
+- [HelioAnalytics](https://helioanalytics.io/)
 
 ## AutoML
 - [AutoGluon](https://github.com/autogluon/autogluon)
