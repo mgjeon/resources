@@ -1,5 +1,8 @@
 # Useful links
 
+## Compendium
+- [Compendium solar spectrum formation](https://arxiv.org/abs/2103.02369)
+
 ## Organization (Deep Learning)
 - [Hugging Face](https://github.com/huggingface)
 - [Lightning AI](https://github.com/Lightning-AI)
@@ -40,5 +43,10 @@
 - [JAX-CFD](https://github.com/google/jax-cfd)
 - [JAX-MD](https://github.com/jax-md/jax-md)
 - [Trixi.jl](https://github.com/trixi-framework)
+
+## Field Line Tracer
+- [streamtracer](https://github.com/sunpy/streamtracer)
+- [UFiT](https://github.com/Valentin-Aslanyan/UFiT)
+- [MapFL](https://github.com/predsci/MapFL)
 
 ## Additional References: [Click here](refs.md)
