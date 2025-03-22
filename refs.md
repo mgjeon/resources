@@ -1,3 +1,12 @@
+## Field Line Tracer
+- [streamtracer](https://github.com/sunpy/streamtracer)
+- [UFiT](https://github.com/Valentin-Aslanyan/UFiT)
+- [MapFL](https://github.com/predsci/MapFL)
+
+## Organization (Sun and Space Weather)
+- [Predictive Science Inc.](https://github.com/predsci)
+- [HelioAnalytics](https://helioanalytics.io/)
+
 ## Time Series
 - [Modern Aspects of Big Time Series Forecasting](https://lovvge.github.io/Forecasting-Tutorial-IJCAI-2021/)
 - [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
@@ -11,9 +20,20 @@
 - [Time series - Python for Data Analysis](https://wesmckinney.com/book/time-series)
 - [Time series - AstroML](https://www.astroml.org/astroML-notebooks/chapter10/README.html)
 
----
+## Simulation
+- [Athena++](https://github.com/PrincetonUniversity/athena)
+- [MPI-AMRVAC](https://github.com/amrvac/amrvac)
+- [OpenMHD](https://github.com/zenitani/OpenMHD)
+- [Clawpack](https://github.com/clawpack)
+- [py-pde](https://github.com/zwicker-group/py-pde)
+- [Dedalus](https://github.com/DedalusProject/dedalus)
+- [findiff](https://github.com/maroba/findiff)
+- [PhiFlow](https://github.com/tum-pbs/PhiFlow)
+- [JAX-FLUIDS](https://github.com/tumaer/JAXFLUIDS)
+- [JAX-CFD](https://github.com/google/jax-cfd)
+- [JAX-MD](https://github.com/jax-md/jax-md)
+- [Trixi.jl](https://github.com/trixi-framework)
 
-# Website
 ## Compendium
 - [Compendium solar spectrum formation](https://arxiv.org/abs/2103.02369)
 
