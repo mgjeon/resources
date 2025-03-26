@@ -33,6 +33,9 @@
 ## Simulation
 - [Athena++](https://github.com/PrincetonUniversity/athena)
 - [MPI-AMRVAC](https://github.com/amrvac/amrvac)
+- [PLUTO](https://plutocode.ph.unito.it/)
+- [Pencil](https://pencil-code.nordita.org/)
+- [FLASH](https://flash.rochester.edu/site/flashcode.html)
 - [OpenMHD](https://github.com/zenitani/OpenMHD)
 - [Clawpack](https://github.com/clawpack)
 - [py-pde](https://github.com/zwicker-group/py-pde)
