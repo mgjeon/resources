@@ -1,11 +1,6 @@
-## Field Line Tracer
-- [streamtracer](https://github.com/sunpy/streamtracer)
-- [UFiT](https://github.com/Valentin-Aslanyan/UFiT)
-- [MapFL](https://github.com/predsci/MapFL)
-
-## Organization (Sun and Space Weather)
-- [Predictive Science Inc.](https://github.com/predsci)
-- [HelioAnalytics](https://helioanalytics.io/)
+## Python
+- [uv: Towards a unified vision for Python tooling](https://thedataquarry.com/blog/towards-a-unified-python-toolchain/)
+- [Python has too many package managers](https://dublog.net/blog/so-many-python-package-managers/)
 
 ## Time Series
 - [Modern Aspects of Big Time Series Forecasting](https://lovvge.github.io/Forecasting-Tutorial-IJCAI-2021/)
@@ -19,23 +14,6 @@
 - [Time series - Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html)
 - [Time series - Python for Data Analysis](https://wesmckinney.com/book/time-series)
 - [Time series - AstroML](https://www.astroml.org/astroML-notebooks/chapter10/README.html)
-
-## Simulation
-- [Athena++](https://github.com/PrincetonUniversity/athena)
-- [MPI-AMRVAC](https://github.com/amrvac/amrvac)
-- [OpenMHD](https://github.com/zenitani/OpenMHD)
-- [Clawpack](https://github.com/clawpack)
-- [py-pde](https://github.com/zwicker-group/py-pde)
-- [Dedalus](https://github.com/DedalusProject/dedalus)
-- [findiff](https://github.com/maroba/findiff)
-- [PhiFlow](https://github.com/tum-pbs/PhiFlow)
-- [JAX-FLUIDS](https://github.com/tumaer/JAXFLUIDS)
-- [JAX-CFD](https://github.com/google/jax-cfd)
-- [JAX-MD](https://github.com/jax-md/jax-md)
-- [Trixi.jl](https://github.com/trixi-framework)
-
-## Compendium
-- [Compendium solar spectrum formation](https://arxiv.org/abs/2103.02369)
 
 ## General
 - [BRIEF LINUX MANUAL FOR WINDIE STUDENTS](https://robrutten.nl/rrweb/rjr-edu/manuals/linux-brief-manual.html)
