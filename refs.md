@@ -22,6 +22,7 @@
 - [GSFC/SolarSoft](https://hesperia.gsfc.nasa.gov/ssw/)
 - [SunPy](https://docs.sunpy.org/)
 - [HAPI](https://hapi-server.org/)
+- [M.J.Aschwanden's homepage](https://www.lmsal.com/~aschwand)
 
 ## CME Catalog
 - [SEEDS](http://spaceweather.gmu.edu/seeds/)
@@ -40,9 +41,14 @@
 - [ISEE, Nagoya University](https://www.isee.nagoya-u.ac.jp/en/)
 - [SuperMAG](https://supermag.jhuapl.edu/)
 - [PyHC](https://heliopython.org/)
-
+- [Nobeyama Radio Observatory: Solar](https://solar.nro.nao.ac.jp/index_nsro_last.html)
 
 ---
+
+## Observatory
+- [OSO](https://imagine.gsfc.nasa.gov/observatories/history/missions/oso.html)
+- [MSFC/Solar Physics](https://solarscience.msfc.nasa.gov/)
+- [TRACE Archive](https://www.ukssdc.ac.uk/solar/trace/)
 
 ## GW
 - [GW Open Science Center](https://gwosc.org/)
