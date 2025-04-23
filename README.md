@@ -52,4 +52,5 @@
 - [UFiT](https://github.com/Valentin-Aslanyan/UFiT)
 - [MapFL](https://github.com/predsci/MapFL)
 
-## Additional References: [Click here](refs.md)
+
+## [Additional References](refs.md)

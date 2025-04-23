@@ -1,57 +1,64 @@
+## Quick Look
+- [SolarMonitor](https://solarmonitor.org/)
+- [Helioviewer](https://helioviewer.org/)
+- [JHelioviewer](https://www.jhelioviewer.org/)
+- [Solar-MACH](https://solar-mach.github.io/)
+- [LMSAL/HEK](https://www.lmsal.com/hek)
+- [NASA's Eyes](https://science.nasa.gov/eyes/)
 
-## Compendium
-- [Compendium solar spectrum formation](https://arxiv.org/abs/2103.02369)
+## Data
+- [Virtual Solar Observatory](https://sdac.virtualsolar.org/cgi/search)
+- [NASA SDAC](https://umbra.nascom.nasa.gov/)
+- [SPASE](https://spase-group.org/)
+- [HPDE.io](https://hpde.io/)
+- [NASA CDDIS](https://cddis.nasa.gov/)
+- [Madrigal Database](https://cedar.openmadrigal.org/)
+- [NASA CDAWeb](https://cdaweb.gsfc.nasa.gov/)
+- [NASA SSCWeb](https://sscweb.gsfc.nasa.gov/)
+- [JSOC](http://jsoc.stanford.edu/)
 
-## Organization (Deep Learning)
-- [Hugging Face](https://github.com/huggingface)
-- [Lightning AI](https://github.com/Lightning-AI)
-- [Ultralytics](https://github.com/ultralytics)
-- [Roboflow](https://github.com/roboflow)
-- [Meta Research](https://github.com/facebookresearch)
-- [nerfstudio](https://github.com/nerfstudio-project)
-- [OpenMMLab](https://github.com/open-mmlab)
+## Solar Software
+- [LMSAL/SolarSoft](https://www.lmsal.com/solarsoft/)
+- [GSFC/SolarSoft](https://hesperia.gsfc.nasa.gov/ssw/)
+- [SunPy](https://docs.sunpy.org/)
+- [HAPI](https://hapi-server.org/)
 
-## Organization (Sun and Space Weather)
+## CME Catalog
+- [SEEDS](http://spaceweather.gmu.edu/seeds/)
+- [CACTUS](https://www.sidc.be/cactus/)
+- [CDAW LASCO](https://cdaw.gsfc.nasa.gov/CME_list/)
+
+## Organization
+- [NASA CCMC](https://ccmc.gsfc.nasa.gov/)
+- [HAO](https://www2.hao.ucar.edu/)
+- [NSO](https://nso.edu/)
+- [NSO/GONG](https://gong.nso.edu/)
 - [Predictive Science Inc.](https://github.com/predsci)
-- [HelioAnalytics](https://helioanalytics.io/)
-
-## AutoML
-- [AutoGluon](https://github.com/autogluon/autogluon)
-
-## Image Segmentation
-- [segmentation_models.pytorch](https://github.com/qubvel-org/segmentation_models.pytorch)
-
-## Time Series
-- [Darts](https://github.com/unit8co/darts)
-- [Nixtla](https://github.com/nixtla)
-- [tsai](https://github.com/timeseriesAI/tsai)
-- [GluonTS](https://github.com/awslabs/gluonts)
-- [skforecast](https://github.com/skforecast/skforecast)
-- [sktime](https://github.com/sktime/sktime)
-
-## Simulation
-- [Athena++](https://github.com/PrincetonUniversity/athena)
-- [MPI-AMRVAC](https://github.com/amrvac/amrvac)
-- [PLUTO](https://plutocode.ph.unito.it/)
-- [Pencil](https://pencil-code.nordita.org/)
-- [FLASH](https://flash.rochester.edu/site/flashcode.html)
-- [OpenMHD](https://github.com/zenitani/OpenMHD)
-- [Clawpack](https://github.com/clawpack)
-- [py-pde](https://github.com/zwicker-group/py-pde)
-- [Dedalus](https://github.com/DedalusProject/dedalus)
-- [findiff](https://github.com/maroba/findiff)
-- [PhiFlow](https://github.com/tum-pbs/PhiFlow)
-- [JAX-FLUIDS](https://github.com/tumaer/JAXFLUIDS)
-- [JAX-CFD](https://github.com/google/jax-cfd)
-- [JAX-MD](https://github.com/jax-md/jax-md)
-- [Trixi.jl](https://github.com/trixi-framework)
-
-## Field Line Tracer
-- [streamtracer](https://github.com/sunpy/streamtracer)
-- [UFiT](https://github.com/Valentin-Aslanyan/UFiT)
-- [MapFL](https://github.com/predsci/MapFL)
+- [SIDC](https://www.sidc.be/)
+- [Kp index - GFZ](https://kp.gfz.de/)
+- [WDC, Kyoto University](https://wdc.kugi.kyoto-u.ac.jp)
+- [ISEE, Nagoya University](https://www.isee.nagoya-u.ac.jp/en/)
+- [SuperMAG](https://supermag.jhuapl.edu/)
+- [PyHC](https://heliopython.org/)
 
 
+---
+
+## GW
+- [GW Open Science Center](https://gwosc.org/)
+
+## Astronomy
+- [VizieR](https://vizier.unistra.fr/)
+- [HEASARC](https://heasarc.gsfc.nasa.gov/w3browse/)
+- [SDSS](https://skyserver.sdss.org/dr18)
+- [Astroquery](https://astroquery.readthedocs.io/)
+- [NRAO CASA](https://casa.nrao.edu/)
+
+## Aurora
+- [asilib](https://aurora-asi-lib.readthedocs.io)
+
+## FITS Viewer
+- [SAOImageDS9](https://sites.google.com/cfa.harvard.edu/saoimageds9)
 
 ## Space Weather (1)
 - [ISES](http://www.spaceweather.org/index.jsp)
