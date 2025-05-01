@@ -29,6 +29,7 @@
 - [GluonTS](https://github.com/awslabs/gluonts)
 - [skforecast](https://github.com/skforecast/skforecast)
 - [sktime](https://github.com/sktime/sktime)
+- [PyPOTS](https://github.com/WenjieDu/PyPOTS)
 
 ## Simulation
 - [Athena++](https://github.com/PrincetonUniversity/athena)
