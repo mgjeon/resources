@@ -1,3 +1,8 @@
+- [Machine Learning Open Source Software](https://www.jmlr.org/mloss/)
+- [PyTorch Landscape](https://landscape.pytorch.org/)
+
+---
+
 ## Quick Look
 - [SolarMonitor](https://solarmonitor.org/)
 - [Helioviewer](https://helioviewer.org/)
