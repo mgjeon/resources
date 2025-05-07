@@ -1,9 +1,12 @@
 # Useful links
 
-## Compendium
+## Solar Physics
 - [Compendium solar spectrum formation](https://arxiv.org/abs/2103.02369)
+- [Solar Cartoon Archive](https://www.astro.gla.ac.uk/cartoons/index.html)
+- [Predictive Science Inc.](https://github.com/predsci)
+- [HelioAnalytics](https://helioanalytics.io/)
 
-## Organization (Deep Learning)
+## Deep Learning
 - [Hugging Face](https://github.com/huggingface)
 - [Lightning AI](https://github.com/Lightning-AI)
 - [Ultralytics](https://github.com/ultralytics)
@@ -12,17 +15,15 @@
 - [nerfstudio](https://github.com/nerfstudio-project)
 - [OpenMMLab](https://github.com/open-mmlab)
 
-## Organization (Sun and Space Weather)
-- [Predictive Science Inc.](https://github.com/predsci)
-- [HelioAnalytics](https://helioanalytics.io/)
+## Codes
 
-## AutoML
+### AutoML
 - [AutoGluon](https://github.com/autogluon/autogluon)
 
-## Image Segmentation
+### Image Segmentation
 - [segmentation_models.pytorch](https://github.com/qubvel-org/segmentation_models.pytorch)
 
-## Time Series
+### Time Series
 - [Darts](https://github.com/unit8co/darts)
 - [Nixtla](https://github.com/nixtla)
 - [tsai](https://github.com/timeseriesAI/tsai)
@@ -31,7 +32,7 @@
 - [sktime](https://github.com/sktime/sktime)
 - [PyPOTS](https://github.com/WenjieDu/PyPOTS)
 
-## Simulation
+### Simulation
 - [Athena++](https://github.com/PrincetonUniversity/athena)
 - [MPI-AMRVAC](https://github.com/amrvac/amrvac)
 - [PLUTO](https://plutocode.ph.unito.it/)
@@ -48,7 +49,7 @@
 - [JAX-MD](https://github.com/jax-md/jax-md)
 - [Trixi.jl](https://github.com/trixi-framework)
 
-## Field Line Tracer
+### Field Line Tracer
 - [streamtracer](https://github.com/sunpy/streamtracer)
 - [UFiT](https://github.com/Valentin-Aslanyan/UFiT)
 - [MapFL](https://github.com/predsci/MapFL)
