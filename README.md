@@ -1,4 +1,4 @@
-# Useful links
+# Resources
 
 ## Deep Learning
 - [Hugging Face](https://github.com/huggingface)
