@@ -1,11 +1,5 @@
 # Useful links
 
-## Solar Physics
-- [Compendium solar spectrum formation](https://arxiv.org/abs/2103.02369)
-- [Solar Cartoon Archive](https://www.astro.gla.ac.uk/cartoons/index.html)
-- [Predictive Science Inc.](https://github.com/predsci)
-- [HelioAnalytics](https://helioanalytics.io/)
-
 ## Deep Learning
 - [Hugging Face](https://github.com/huggingface)
 - [Lightning AI](https://github.com/Lightning-AI)
@@ -15,44 +9,34 @@
 - [nerfstudio](https://github.com/nerfstudio-project)
 - [OpenMMLab](https://github.com/open-mmlab)
 
-## Codes
+## Astronomy
+- [VizieR](https://vizier.cds.unistra.fr/)
+- [SDSS](https://www.sdss.org/)
+- [ALMA](https://www.almaobservatory.org/en/home/)
+- [GWOSC](https://gwosc.org/)
+- [STScI](https://www.stsci.edu/home)
+- [NASA's Eyes](https://science.nasa.gov/eyes/)
+- [NASA's Universe of Learning](https://universe-of-learning.org/)
 
-### AutoML
-- [AutoGluon](https://github.com/autogluon/autogluon)
+## Solar Physics
+- [Compendium solar spectrum formation](https://arxiv.org/abs/2103.02369)
+- [Solar Cartoon Archive](https://www.astro.gla.ac.uk/cartoons/index.html)
+- [HelioAnalytics](https://helioanalytics.io/)
+- [Predictive Science Inc.](https://github.com/predsci)
+- [Virtual Solar Observatory](https://sdac.virtualsolar.org/cgi/search)
+- [Solar Monitor](https://www.solarmonitor.org/)
+- [NSO](https://nso.edu/)
+- [HAO](https://www2.hao.ucar.edu/)
 
-### Image Segmentation
-- [segmentation_models.pytorch](https://github.com/qubvel-org/segmentation_models.pytorch)
-
-### Time Series
-- [Darts](https://github.com/unit8co/darts)
-- [Nixtla](https://github.com/nixtla)
-- [tsai](https://github.com/timeseriesAI/tsai)
-- [GluonTS](https://github.com/awslabs/gluonts)
-- [skforecast](https://github.com/skforecast/skforecast)
-- [sktime](https://github.com/sktime/sktime)
-- [PyPOTS](https://github.com/WenjieDu/PyPOTS)
-
-### Simulation
-- [Athena++](https://github.com/PrincetonUniversity/athena)
-- [MPI-AMRVAC](https://github.com/amrvac/amrvac)
-- [PLUTO](https://plutocode.ph.unito.it/)
-- [Pencil](https://pencil-code.nordita.org/)
-- [FLASH](https://flash.rochester.edu/site/flashcode.html)
-- [OpenMHD](https://github.com/zenitani/OpenMHD)
-- [Clawpack](https://github.com/clawpack)
-- [py-pde](https://github.com/zwicker-group/py-pde)
-- [Dedalus](https://github.com/DedalusProject/dedalus)
-- [findiff](https://github.com/maroba/findiff)
-- [PhiFlow](https://github.com/tum-pbs/PhiFlow)
-- [JAX-FLUIDS](https://github.com/tumaer/JAXFLUIDS)
-- [JAX-CFD](https://github.com/google/jax-cfd)
-- [JAX-MD](https://github.com/jax-md/jax-md)
-- [Trixi.jl](https://github.com/trixi-framework)
-
-### Field Line Tracer
-- [streamtracer](https://github.com/sunpy/streamtracer)
-- [UFiT](https://github.com/Valentin-Aslanyan/UFiT)
-- [MapFL](https://github.com/predsci/MapFL)
-
+## Space Weather
+- [NOAA SWPC](https://www.swpc.noaa.gov/)
+- [ESA Space Weather](https://swe.ssa.esa.int/)
+- [NICT](https://swc.nict.go.jp/en/)
+- [KASA 우주환경센터](https://spaceweather.kasa.go.kr/main.do)
+- [KASI 우주환경연구센터](https://kswrc.kasi.re.kr/ko)
+- [Space Weather Data Portal](https://lasp.colorado.edu/space-weather-portal/)
+- [SpaceWeatherLive.com](https://www.spaceweatherlive.com/en.html)
+- [SpaceWeather.com](https://spaceweather.com/)
+- [NASA CCMC](https://ccmc.gsfc.nasa.gov/)
 
 ## [Additional References](refs.md)
