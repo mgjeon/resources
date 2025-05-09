@@ -21,12 +21,13 @@
 ## Solar Physics
 - [Compendium solar spectrum formation](https://arxiv.org/abs/2103.02369)
 - [Solar Cartoon Archive](https://www.astro.gla.ac.uk/cartoons/index.html)
-- [HelioAnalytics](https://helioanalytics.io/)
-- [Predictive Science Inc.](https://github.com/predsci)
-- [Virtual Solar Observatory](https://sdac.virtualsolar.org/cgi/search)
+- [CDPP](https://cdpp.irap.omp.eu/)
 - [Solar Monitor](https://www.solarmonitor.org/)
+- [Virtual Solar Observatory](https://sdac.virtualsolar.org/cgi/search)
 - [NSO](https://nso.edu/)
 - [HAO](https://www2.hao.ucar.edu/)
+- [Predictive Science Inc.](https://github.com/predsci)
+- [HelioAnalytics](https://helioanalytics.io/)
 
 ## Space Weather
 - [NOAA SWPC](https://www.swpc.noaa.gov/)
