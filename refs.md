@@ -270,6 +270,7 @@
 - https://github.com/SDOML
 - https://github.com/Valentin-Aslanyan/UFiT
 - https://github.com/heliophysicsPy
+- https://github.com/AthKouloumvakos/PyThea
 
 ## Hydrodynamics
 - [OpenFOAM](https://openfoam.org/)
