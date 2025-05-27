@@ -1,5 +1,12 @@
 # Resources
 
+## Simulation
+- [findiff](https://github.com/maroba/findiff)
+- [scikit-fdiff](https://gitlab.com/celliern/scikit-fdiff)
+- [Introduction to Computational Astrophysical Hydrodynamics](https://open-astrophysics-bookshelf.github.io/numerical_exercises/)
+- [Harvard Applied Math 205](https://people.math.wisc.edu/~chr/am205/index.html)
+- [Harvard Applied Math 225](https://people.math.wisc.edu/~chr/am225/index.html)
+
 ## Deep Learning
 - [Hugging Face](https://github.com/huggingface)
 - [Lightning AI](https://github.com/Lightning-AI)
