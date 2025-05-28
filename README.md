@@ -1,6 +1,7 @@
 # Resources
 
 ## Simulation
+- [py-pde](https://github.com/zwicker-group/py-pde)
 - [findiff](https://github.com/maroba/findiff)
 - [scikit-fdiff](https://gitlab.com/celliern/scikit-fdiff)
 - [Introduction to Computational Astrophysical Hydrodynamics](https://open-astrophysics-bookshelf.github.io/numerical_exercises/)
