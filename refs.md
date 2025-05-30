@@ -51,6 +51,7 @@
 - [Solar-MACH](https://solar-mach.github.io/)
 - [LMSAL/HEK](https://www.lmsal.com/hek)
 - [NASA's Eyes](https://science.nasa.gov/eyes/)
+- [Sun In Time](https://suntoday.lmsal.com/suntoday)
 
 ## Data
 - [Virtual Solar Observatory](https://sdac.virtualsolar.org/cgi/search)
