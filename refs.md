@@ -1,7 +1,9 @@
 ## Codes
 
-### AutoML
+### Low-code
 - [AutoGluon](https://github.com/autogluon/autogluon)
+- [PyCaret](https://github.com/pycaret/pycaret)
+- [fast.ai](https://github.com/fastai/fastai)
 
 ### Image Segmentation
 - [segmentation_models.pytorch](https://github.com/qubvel-org/segmentation_models.pytorch)
