@@ -48,4 +48,7 @@
 - [SpaceWeather.com](https://spaceweather.com/)
 - [NASA CCMC](https://ccmc.gsfc.nasa.gov/)
 
+## Computer
+- [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks/)
+
 ## [Additional References](refs.md)
